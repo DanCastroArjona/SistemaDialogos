@@ -1,0 +1,10 @@
+﻿id;Character;Dialog;Nor/Ans;Interactive;A_id;B_id;Ev_id
+0;PC;Bienvenido, está usted usando un nuevo sistema de dialogo, si no le importa, le haré algunas preguntas.;f;f;1;-1;-1
+1;Jugador;De acuerdo.;f;f;2;-1;-1
+2;PC;Bien, comencemos. ¿Qué vinculo mantiene con la señora Aya?;t;f;3;4;-1
+3;Jugador;Relación personal;f;t;5;-1;-1
+4;Jugador;Relación profesional;f;t;6;-1;-1
+5;Jugador;Mantenemos una relación personal desde hace al menos 20 años.;f;f;7;-1;-1
+6;Jugador;Solo hemos trabajado juntos.;f;f;8;-1;-1
+7;PC;Eso es lo que pensaba.;f;f;-1;-1;0
+8;PC;Deje de mentir.;f;f;-1;-1;1
